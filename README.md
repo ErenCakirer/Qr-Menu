@@ -1,2 +1,2 @@
 # Qr-Menu
-Fluuter ile geliştirilmiş Qr Menü uygulaması.
+Flutter ile geliştirilmiş Qr Menü uygulaması.
